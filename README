@@ -1,0 +1,2 @@
+Installer premièrement le contentProvider avant d'installer MyRestaurant.
+Pour le contentProvider, ne pas oublier de désactiver le lancement par défault d'une activity.

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyRestaurants</string>
+    <string name="action_recharger">Recharger</string>
+    <string name="action_ajoutResto">Ajout Restaurant</string>
+    <string name="action_commenter">Commenter</string>
+    <string name="action_modifier">Modifier</string>
+    <string name="action_envoyerSMS">Inviter contact via SMS</string>
+    <string name="action_ajoutContact">Ajouter aux contacts</string>
+    <string name="action_supprimer">Supprimer</string>
+    <string name="titreFormu">Ajout d\'un restaurant</string>
+    <string name="titreModif">Modification restaurant</string>
+    <string name="titreComm">Ajout d\'un commentaire</string>
+    <string name="commentaires">Commentaires:</string>
+    <string name="nom">Nom:</string>
+    <string name="addr">Adresse:</string>
+    <string name="phone">Téléphone:</string>
+    <string name="siteWeb">Site Web:</string>
+    <string name="coutMoyRepas">Coût moyen repas:</string>
+    <string name="horaire">Horaires:</string>
+    <string name="typeResto">Type de cuisine:</string>
+    <string name="gps">GPS:</string>
+    <string name="photo">Photo:</string>
+    <string name="note">Note:</string>
+    <string name="auteur">Auteur:</string>
+    <string name="commentaire">Commentaire:</string>
+    <string name="cRestaurant">Choisissez un restaurant à afficher:</string>
+    <string name="modifier">Enregistrer</string>
+    <string name="tvWeb">Vide</string>
+
+    <!--    Permissions    -->
+    <string name="permission_required_toast">Permissions Required.</string>
+    <string name="permission_rationale_location">Access to the location service is required to shows the restaurant location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the restaurant location layer. Please try again and grant access to use this feature.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; .</string>
+    <string name="location_permission_required_toast">Location permission is required.</string>
+    <string name="permission_rational_contacts">Access to the contacts service is required in order to add the restaurant to your contacts.</string>
+    <string name="contacts_permission_required_toast">Contacts permission is required.</string>
+    <string name="permission_rational_call_phone">Access to the call phone service is required in order to make phone call from this app possible.</string>
+    <string name="call_phone_permission_required_toast">Call phone permission is required.</string>
+    <string name="permission_rational_storage">Access to storage service is required in order to save the restaurants.</string>
+    <string name="storage_permission_required_toast">Storage permission is required.</string>
+    <string name="permission_rational_all">In order to get a flawlessly experience usage for this application, you need to enable all the permissions required.</string>
+</resources>
